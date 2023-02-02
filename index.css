@@ -200,7 +200,7 @@ img{
 
 
 /* Media queries */
-@media (max-width: 375px){
+@media (max-width: 450px){
 .main-container{
     display: flex;
     justify-content: center;
