@@ -186,6 +186,14 @@ img{
 .box-flex>span{
     color: var(--Soft-Pink);
 }
+.attribution a{
+    font-size: 22px;
+    color: var(--Very-Dark-Magenta);
+    text-decoration: none;
+ }
+.attribution{
+    font-size: 18px;
+}
 /* Parte de abajo */
 
 
